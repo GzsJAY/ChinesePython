@@ -1,0 +1,2 @@
+# ChinesePython
+一个将英文关键词改为中文关键词的Python版本
